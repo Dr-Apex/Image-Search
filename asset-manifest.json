@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dr-Apex/Blog-Fetch/static/css/main.20d2c976.chunk.css",
+    "main.js": "/Dr-Apex/Blog-Fetch/static/js/main.ebddac54.chunk.js",
+    "main.js.map": "/Dr-Apex/Blog-Fetch/static/js/main.ebddac54.chunk.js.map",
+    "runtime-main.js": "/Dr-Apex/Blog-Fetch/static/js/runtime-main.043a4003.js",
+    "runtime-main.js.map": "/Dr-Apex/Blog-Fetch/static/js/runtime-main.043a4003.js.map",
+    "static/js/2.c73d4bb8.chunk.js": "/Dr-Apex/Blog-Fetch/static/js/2.c73d4bb8.chunk.js",
+    "static/js/2.c73d4bb8.chunk.js.map": "/Dr-Apex/Blog-Fetch/static/js/2.c73d4bb8.chunk.js.map",
+    "index.html": "/Dr-Apex/Blog-Fetch/index.html",
+    "precache-manifest.110b0db2ec94a1ebb91cbebee3ce4bea.js": "/Dr-Apex/Blog-Fetch/precache-manifest.110b0db2ec94a1ebb91cbebee3ce4bea.js",
+    "service-worker.js": "/Dr-Apex/Blog-Fetch/service-worker.js",
+    "static/css/main.20d2c976.chunk.css.map": "/Dr-Apex/Blog-Fetch/static/css/main.20d2c976.chunk.css.map",
+    "static/js/2.c73d4bb8.chunk.js.LICENSE.txt": "/Dr-Apex/Blog-Fetch/static/js/2.c73d4bb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.043a4003.js",
+    "static/js/2.c73d4bb8.chunk.js",
+    "static/css/main.20d2c976.chunk.css",
+    "static/js/main.ebddac54.chunk.js"
+  ]
+}
